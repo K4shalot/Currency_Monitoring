@@ -1,4 +1,4 @@
-# Currency Monitoring Test Task
+# Currency Monitoring
 
 A simple Django web app that:
 - periodically fetches exchange rates (relative to UAH) from the Monobank API;
